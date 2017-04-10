@@ -1,4 +1,4 @@
-<h1>WP Plugin 2017</h1> 
+<h1>Expense Manager</h1> 
 Ceci est le repertoire de dépot commun pour le projet developpement de plugin Wordpress.
 Tous vos fichiers doivent être déposés ici afin de faciliter le travail collaboratif sur le développement du pluging Duke pour wordpress.
 A noter que : 
@@ -8,5 +8,5 @@ A noter que :
 Les fichiers devront être fusionnées sous functions.php a la racine du plugin
 
 <h3>NORMALISATION</h3>
-Les fonctions et les tables portent toutes le préfixe dk_
+Les fonctions et les tables portent toutes le préfixe em_
 le nom des fonction et des tables est en anglais
